@@ -5,3 +5,4 @@
 4) Obtener cuál es el menor de todos los números.
 5) Obtener el promedio de todos los números.
 6) Mostrar todos los números ingresados por pantalla.
+7) Mostrar los valores calculados en los puntos 2, 3, 4 y 5.
